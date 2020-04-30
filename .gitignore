@@ -1,0 +1,6 @@
+*.pcy
+__pycache__
+
+.txt
+.png
+.idea
