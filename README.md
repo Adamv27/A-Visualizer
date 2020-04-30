@@ -6,6 +6,9 @@ Once both nodes are done you can click and hold to draw walls.
 Click spacebar to begin the algorithm
 
 
+Algorithm by Nicholas Swift
+https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
+
 4/29/2020&nbsp;
 
 I created this project to get a better understanding of the A*
