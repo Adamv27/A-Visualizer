@@ -1,5 +1,7 @@
 # A* Visualizer
 
+![](https://raw.githubusercontent.com/Adamv27/A-Visualizer/master/images/visualizer.png)
+
 This an a visualizer of the A* algorithm in Python.
 Click anywhere to place the start node and then another click will be the end node.
 Once both nodes are done you can click and hold to draw walls. 
