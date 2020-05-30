@@ -7,7 +7,13 @@ Click anywhere to place the start node and then another click will be the end no
 Once both nodes are done you can click and hold to draw walls. 
 Click spacebar to begin the algorithm
 
+## Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygae.
+
+```bash
+pip install pygame
+```
 Algorithm by Nicholas Swift
 https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
 
