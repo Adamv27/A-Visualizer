@@ -14,10 +14,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygae.
 ```bash
 pip install pygame
 ```
+## Usage
+Your first click will be the start location and your second click will be the end. After both nodes are placed you can click and drag to draw walls. Once you are ready to start the algorithm click spacebar.
+
 Algorithm by Nicholas Swift
 https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
 
-4/29/2020&nbsp;
+4/29/2020
 
 I created this project to get a better understanding of the A*
 algorithm and how it works
